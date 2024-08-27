@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\0_Freamwork\0_Freamwork.csproj" />
+    <ProjectReference Include="..\..\SM.Application\ShopManagment.Application.Contracts\ShopManagment.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
