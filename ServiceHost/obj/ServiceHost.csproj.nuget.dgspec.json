@@ -48,6 +48,12 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
             }
           },
           "imports": [
@@ -130,6 +136,12 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
             },
@@ -285,6 +297,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              },
               "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
                 "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               },
@@ -366,6 +381,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              },
               "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
                 "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               }
@@ -475,9 +493,9 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.Extensions.DependencyInjection": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -581,6 +599,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

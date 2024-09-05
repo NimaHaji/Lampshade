@@ -10,3 +10,5 @@ E:\Code\Asp.net-Core\Projects\LampShade\0_Freamwork\obj\Debug\net8.0\0_Freamwork
 E:\Code\Asp.net-Core\Projects\LampShade\0_Freamwork\obj\Debug\net8.0\refint\0_Freamwork.dll
 E:\Code\Asp.net-Core\Projects\LampShade\0_Freamwork\obj\Debug\net8.0\0_Freamwork.pdb
 E:\Code\Asp.net-Core\Projects\LampShade\0_Freamwork\obj\Debug\net8.0\ref\0_Freamwork.dll
+E:\Code\Asp.net-Core\Projects\LampShade\0_Freamwork\bin\Debug\net8.0\0_Freamwork.runtimeconfig.json
+E:\Code\Asp.net-Core\Projects\LampShade\0_Freamwork\obj\Debug\net8.0\0_Freamwork.genruntimeconfig.cache

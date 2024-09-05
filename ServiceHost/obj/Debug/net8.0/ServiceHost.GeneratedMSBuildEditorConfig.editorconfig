@@ -39,6 +39,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/shop/ProductCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xzaG9wXFByb2R1Y3RDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/shop/ProductCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xzaG9wXFByb2R1Y3RDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/shop/ProductCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xzaG9wXFByb2R1Y3RDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -262,6 +262,8 @@ E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\refint\Serv
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.pdb
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.genruntimeconfig.cache
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ref\ServiceHost.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\ServiceHost.staticwebassets.endpoints.json
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets\msbuild.ServiceHost.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

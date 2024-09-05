@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Areas\Adminstration\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
   </ItemGroup>
@@ -21,15 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="Areas\Adminstration\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="Areas\Adminstration\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Areas\Adminstration\Index.cshtml" />
     <None Include="wwwroot\AdminTheme\assets\bootstrap-inputmask\bootstrap-inputmask.min.js" />
     <None Include="wwwroot\AdminTheme\assets\bootstrap-wysihtml5\bootstrap-wysihtml5.js" />
     <None Include="wwwroot\AdminTheme\assets\bootstrap-wysihtml5\wysihtml5-0.3.0.js" />

@@ -38,7 +38,7 @@ namespace ShopManagment.Application
         {
             var OperationResult = new OperationResult();
             var productCategory = productCategoryRepository.Get(command.Id);
-            if (productCategory != null)
+            if (productCategory == null)
                 return OperationResult.Failed("رکورد با اطلاعات درخواست شده یاقت نشد .");
 
             if (productCategoryRepository.IsExist(x => x.Name == command.Name && x.Id != command.Id))

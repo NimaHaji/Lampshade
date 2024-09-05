@@ -229,6 +229,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "0_Freamwork": "1.0.0",
           "ShopManagment.Application.Contracts": "1.0.0"
         },
         "compile": {
@@ -611,6 +612,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "0_Freamwork >= 1.0.0",
       "ShopManagment.Application.Contracts >= 1.0.0",
       "ShopManagment.Domain >= 1.0.0"
     ]
@@ -642,6 +644,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+              "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+            },
             "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
               "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
             },

@@ -817,6 +817,18 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\npm.js"
     },
     {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\persian-date.min.js"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\persian-datepicker.min.js"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\site.js"
+    },
+    {
       "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\skycons.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\skycons.min.js"
     },
@@ -1031,6 +1043,62 @@
     {
       "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\toggles\\toggles.min.js"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
       "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\css\\site.css",

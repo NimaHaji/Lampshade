@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting; 
 using ShopManagment.Infrastructure.Configuration;
+using ShopManagment.Infrastructure.EFCore;
 namespace ServiceHost
 {
     public class Startup
