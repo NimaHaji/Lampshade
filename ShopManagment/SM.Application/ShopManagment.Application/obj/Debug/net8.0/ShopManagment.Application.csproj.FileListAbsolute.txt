@@ -36,3 +36,4 @@ E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagme
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application\bin\Debug\net8.0\0_Freamwork.pdb
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application\obj\Debug\net8.0\ShopMana.8D866BC9.Up2Date
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application\obj\Debug\net8.0\ref\ShopManagment.Application.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application\obj\Debug\net8.0\ShopManagment.Application.sourcelink.json

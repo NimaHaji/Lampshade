@@ -40,3 +40,4 @@ E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopMana
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.EFCore\obj\Debug\net8.0\ShopMana.667F28F8.Up2Date
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagment.Infrastructure.EFCore.genruntimeconfig.cache
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.EFCore\obj\Debug\net8.0\ref\ShopManagment.Infrastructure.EFCore.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagment.Infrastructure.EFCore.sourcelink.json

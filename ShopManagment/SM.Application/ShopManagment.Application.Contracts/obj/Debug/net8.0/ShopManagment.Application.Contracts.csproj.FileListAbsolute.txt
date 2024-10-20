@@ -28,3 +28,4 @@ E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagme
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application.Contracts\obj\Debug\net8.0\ShopManagment.Application.Contracts.csproj.AssemblyReference.cache
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application.Contracts\obj\Debug\net8.0\ShopMana.ABC1A3B7.Up2Date
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application.Contracts\obj\Debug\net8.0\ref\ShopManagment.Application.Contracts.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Application\ShopManagment.Application.Contracts\obj\Debug\net8.0\ShopManagment.Application.Contracts.sourcelink.json

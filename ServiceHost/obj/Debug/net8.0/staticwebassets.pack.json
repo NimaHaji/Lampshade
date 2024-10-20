@@ -145,6 +145,14 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-theme.min.css"
     },
     {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-v4.css"
+    },
+    {
+      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-v4.map"
+    },
+    {
       "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap.css"
     },

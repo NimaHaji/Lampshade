@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/D2lZOzhqsf75yUaQrK4mO/qIWlXpQEhGyXzNxX1XDM=",
+  "Hash": "XTCcAmvR5+vmKcKi30aOk1LWYeyhZvT339DQkZfF/Hg=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -792,6 +792,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Identity": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/css/bootstrap-v4#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u5sx7o4ey2",
+      "Integrity": "Lmz32mdEsiyKIgZ2kM1b7MuI1sHKGtCPh7oz85vJ6u4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css"
+    },
+    {
+      "Identity": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/css/bootstrap-v4#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9xrzhlfxdt",
+      "Integrity": "Hc1VFshl1+1qau+eLYz+qzMs55C0z2tkewBcvKcUQuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map"
     },
     {
       "Identity": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css",
@@ -9945,6 +9987,170 @@
       ]
     },
     {
+      "Route": "AdminTheme/assets/css/bootstrap-v4.9xrzhlfxdt.map",
+      "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hc1VFshl1+1qau+eLYz+qzMs55C0z2tkewBcvKcUQuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 09:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9xrzhlfxdt"
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/css/bootstrap-v4.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hc1VFshl1+1qau+eLYz+qzMs55C0z2tkewBcvKcUQuE="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/css/bootstrap-v4.css",
+      "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "182626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lmz32mdEsiyKIgZ2kM1b7MuI1sHKGtCPh7oz85vJ6u4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 09:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lmz32mdEsiyKIgZ2kM1b7MuI1sHKGtCPh7oz85vJ6u4="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/css/bootstrap-v4.map",
+      "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hc1VFshl1+1qau+eLYz+qzMs55C0z2tkewBcvKcUQuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 09:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hc1VFshl1+1qau+eLYz+qzMs55C0z2tkewBcvKcUQuE="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/css/bootstrap-v4.u5sx7o4ey2.css",
+      "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "182626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lmz32mdEsiyKIgZ2kM1b7MuI1sHKGtCPh7oz85vJ6u4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Sep 2024 09:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u5sx7o4ey2"
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/css/bootstrap-v4.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lmz32mdEsiyKIgZ2kM1b7MuI1sHKGtCPh7oz85vJ6u4="
+        }
+      ]
+    },
+    {
       "Route": "AdminTheme/assets/css/bootstrap.92wzea6dwz.css",
       "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css",
       "Selectors": [],
@@ -9967,7 +10173,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 17 Jun 2015 03:43:22 GMT"
+          "Value": "Thu, 05 Sep 2024 21:04:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10012,7 +10218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 17 Jun 2015 03:43:22 GMT"
+          "Value": "Thu, 05 Sep 2024 21:04:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10459,7 +10665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Sep 2024 15:06:37 GMT"
+          "Value": "Fri, 06 Sep 2024 09:29:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10504,7 +10710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Sep 2024 15:06:37 GMT"
+          "Value": "Fri, 06 Sep 2024 09:29:08 GMT"
         },
         {
           "Name": "Cache-Control",

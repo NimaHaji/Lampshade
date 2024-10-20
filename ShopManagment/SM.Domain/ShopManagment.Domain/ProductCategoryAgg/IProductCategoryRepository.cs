@@ -1,5 +1,4 @@
 ﻿using _0_Freamwork.Domain;
-using System;
 using System.Collections.Generic;
 using ShopManagment.Application.Contracts.ProductCategory;
 namespace ShopManagment.Domain.ProductCategoryAgg
@@ -8,6 +7,7 @@ namespace ShopManagment.Domain.ProductCategoryAgg
     {
 
         EditProductCategory GetDetails(long id);
+        List<ProductCategoryViewModel> GetProductCategories();
         List<ProductCategoryViewModel> Search(ProductCategorySearchModel model);
 
     }

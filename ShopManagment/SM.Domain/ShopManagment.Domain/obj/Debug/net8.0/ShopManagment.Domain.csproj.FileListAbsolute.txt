@@ -32,3 +32,4 @@ E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Domain\ShopManagment.Do
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Domain\ShopManagment.Domain\obj\Debug\net8.0\ShopManagment.Domain.csproj.CoreCompileInputs.cache
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Domain\ShopManagment.Domain\obj\Debug\net8.0\ShopMana.3B6D73ED.Up2Date
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Domain\ShopManagment.Domain\obj\Debug\net8.0\ref\ShopManagment.Domain.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Domain\ShopManagment.Domain\obj\Debug\net8.0\ShopManagment.Domain.sourcelink.json

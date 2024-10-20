@@ -1,7 +1,6 @@
 ﻿using _0_Freamwork.Infrastructure;
 using ShopManagment.Application.Contracts.ProductCategory;
 using ShopManagment.Domain.ProductCategoryAgg;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -15,6 +14,14 @@ namespace ShopManagment.Infrastructure.EFCore.Repository
         public ProductCategoryRepository(ShopContext context) : base(context)
         {
             _context = context;
+        }
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _context.ProductCategories.Select(x => new ProductCategoryViewModel
+            {
+                Id = x.Id,
+                Name = x.Name
+            }).ToList();
         }
 
         public EditProductCategory GetDetails(long id)
@@ -37,9 +44,9 @@ namespace ShopManagment.Infrastructure.EFCore.Repository
             var query = _context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
                 Id = x.Id,
-                Picture = x.Picture,
-                Name = x.Name,
-                CreationDate = x.CreationDate
+                Name=x.Name,
+                Picture=x.Picture,
+                CreationDate=x.CreationDate
             });
             if (!string.IsNullOrWhiteSpace(model.Name))
                 query = query.Where(x => x.Name.Contains(model.Name));
@@ -47,6 +54,6 @@ namespace ShopManagment.Infrastructure.EFCore.Repository
             return query.OrderByDescending(x => x.Id).ToList();
         }
 
-       
+
     }
 }

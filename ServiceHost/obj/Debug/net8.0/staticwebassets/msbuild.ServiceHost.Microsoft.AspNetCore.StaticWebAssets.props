@@ -648,6 +648,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\bootstrap-theme.min.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\bootstrap-v4.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>AdminTheme/assets/css/bootstrap-v4.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u5sx7o4ey2</Fingerprint>
+      <Integrity>Lmz32mdEsiyKIgZ2kM1b7MuI1sHKGtCPh7oz85vJ6u4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\bootstrap-v4.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\bootstrap-v4.map'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>AdminTheme/assets/css/bootstrap-v4.map</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9xrzhlfxdt</Fingerprint>
+      <Integrity>Hc1VFshl1+1qau+eLYz+qzMs55C0z2tkewBcvKcUQuE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\bootstrap-v4.map'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\bootstrap.css.map'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>

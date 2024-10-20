@@ -267,3 +267,6 @@ E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.E
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\ServiceHost.staticwebassets.endpoints.json
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets\msbuild.ServiceHost.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.sourcelink.json
+e:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+e:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

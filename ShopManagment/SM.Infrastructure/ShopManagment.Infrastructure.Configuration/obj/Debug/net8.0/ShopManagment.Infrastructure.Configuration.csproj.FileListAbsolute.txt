@@ -44,3 +44,4 @@ E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopMana
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\obj\Debug\net8.0\ShopManagment.Infrastructure.Configuration.csproj.CoreCompileInputs.cache
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\obj\Debug\net8.0\ShopMana.C2F04996.Up2Date
 E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\obj\Debug\net8.0\ref\ShopManagment.Infrastructure.Configuration.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\obj\Debug\net8.0\ShopManagment.Infrastructure.Configuration.sourcelink.json
