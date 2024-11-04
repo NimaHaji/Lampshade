@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using ShopManagment.Application;
 using ShopManagment.Application.Contracts;
+using _01_LampShadeQuery.Contracts.Slide;
 using ShopManagment.Application.Contracts.Product;
 using ShopManagment.Application.Contracts.ProductCategory;
 using ShopManagment.Application.Contracts.ProductPicture;
@@ -10,6 +11,7 @@ using ShopManagment.Domain;
 using ShopManagment.Domain.ProductCategoryAgg;
 using ShopManagment.Infrastructure.EFCore;
 using ShopManagment.Infrastructure.EFCore.Repository;
+using _01_LampShadeQuery.Contracts.Query;
 
 namespace ShopManagment.Infrastructure.Configuration
 {
@@ -29,6 +31,8 @@ namespace ShopManagment.Infrastructure.Configuration
 
             services.AddTransient<ISlideApplication,SlideApplication>();
             services.AddTransient<ISlideRepository,SlideRepository>();
+
+            services.AddTransient<ISlideQuery,SlideQuery>();
             services.AddDbContext<ShopContext>(x => x.UseSqlServer(ConnectionString));
         }
     }

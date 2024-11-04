@@ -4523,6 +4523,19 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "01_LampShadeQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ShopManagment.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_LampShadeQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_LampShadeQuery.dll": {}
+        }
+      },
       "0_Freamwork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -13275,6 +13288,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "01_LampShadeQuery/1.0.0": {
+      "type": "project",
+      "path": "../../../01_LampShadeQuery/01_LampShadeQuery.csproj",
+      "msbuildProject": "../../../01_LampShadeQuery/01_LampShadeQuery.csproj"
+    },
     "0_Freamwork/1.0.0": {
       "type": "project",
       "path": "../../../0_Freamwork/0_Freamwork.csproj",
@@ -13303,6 +13321,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "01_LampShadeQuery >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.1",
       "ShopManagment.Application >= 1.0.0",
@@ -13337,6 +13356,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
+              "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj"
+            },
             "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj": {
               "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj"
             },

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopManagment.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58baeb5ab6b02a477e3641f84b03bf7e971192a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d935e97a0f6988133a261da6eef49ea6be6b638d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopManagment.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopManagment.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

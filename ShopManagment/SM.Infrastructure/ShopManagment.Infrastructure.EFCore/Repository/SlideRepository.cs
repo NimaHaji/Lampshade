@@ -27,6 +27,7 @@ namespace ShopManagment.Infrastructure.EFCore
                 PictureTitle=x.PictureTitle,
                 PictureAlt=x.PictureTitle,
                 Text=x.Text,
+                Link=x.Link,
                 Title=x.Title
             }).FirstOrDefault(x=>x.Id==Id);
         }

@@ -253,9 +253,7 @@ E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebas
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServiceHost.props
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServiceHost.props
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\scopedcss\bundle\ServiceHost.styles.css
-E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\scopedcss\projectbundle\ServiceHost.bundle.scp.css
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceH.EB565EEF.Up2Date
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\refint\ServiceHost.dll
@@ -270,3 +268,5 @@ E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\staticwebas
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.sourcelink.json
 e:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 e:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\01_LampShadeQuery.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\01_LampShadeQuery.pdb

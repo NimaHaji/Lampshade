@@ -15,6 +15,7 @@
     <ProjectReference Include="..\..\SM.Application\ShopManagment.Application\ShopManagment.Application.csproj" />
     <ProjectReference Include="..\..\SM.Domain\ShopManagment.Domain\ShopManagment.Domain.csproj" />
     <ProjectReference Include="..\ShopManagment.Infrastructure.EFCore\ShopManagment.Infrastructure.EFCore.csproj" />
+    <ProjectReference Include="..\..\..\01_LampShadeQuery\01_LampShadeQuery.csproj" />
   </ItemGroup>
 
 </Project>
