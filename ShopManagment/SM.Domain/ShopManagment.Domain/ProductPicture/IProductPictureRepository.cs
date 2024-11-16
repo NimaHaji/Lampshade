@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using _0_Freamwork.Domain;
+using _0_Framwork.Domain;
 using ShopManagment.Application.Contracts.ProductPicture;
 
 namespace ShopManagment.Domain

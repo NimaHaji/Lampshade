@@ -1,8 +1,9 @@
 ﻿using ShopManagment.Application.Contracts.ProductCategory;
 using System.Collections.Generic;
 using ShopManagment.Domain.ProductCategoryAgg;
-using _0_Freamwork.Application;
-using _0_Freamwork;
+using _0_Framwork.Application;
+using _0_Framwork;
+using _0_Framework.Application;
 
 
 namespace ShopManagment.Application
@@ -22,7 +23,7 @@ namespace ShopManagment.Application
             if (productCategoryRepository.IsExist(x => x.Name == command.Name))
                 return OperationResult.Failed(ApplicationMessages.DuplicatedRecord);
 
-            var slug = command.Slug.GenerateSlug();
+            var slug = command.Slug.Slugify();
 
             var ProductCategory = new ProductCategory(command.Name, command.Description, command.Picture,
             command.PictureAlt, command.PictureTitle,
@@ -45,7 +46,7 @@ namespace ShopManagment.Application
             if (productCategoryRepository.IsExist(x => x.Name == command.Name && x.Id != command.Id))
                 return OperationResult.Failed(ApplicationMessages.DuplicatedRecord);
 
-            var slug = command.Slug.GenerateSlug();
+            var slug = command.Slug.Slugify();
             productCategory.Edit(command.Name, command.Description, command.Picture, command.PictureAlt,
             command.PictureTitle, command.Keywords, command.MetaDescription, slug);
             productCategoryRepository.SaveChanges();

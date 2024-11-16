@@ -1,4 +1,4 @@
-﻿using _0_Freamwork.Domain;
+﻿using _0_Framwork.Domain;
 using System.Collections.Generic;
 using ShopManagment.Application.Contracts.ProductCategory;
 namespace ShopManagment.Domain.ProductCategoryAgg

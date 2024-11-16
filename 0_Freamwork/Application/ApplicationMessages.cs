@@ -1,4 +1,4 @@
-﻿namespace _0_Freamwork
+﻿namespace _0_Framwork
 {
     public class ApplicationMessages
     {

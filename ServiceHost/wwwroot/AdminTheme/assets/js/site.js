@@ -35,6 +35,10 @@ $(document).ready(function () {
     $("#MainModal").on("shown.bs.modal",
         function () {
             window.location.hash = "##";
+            $('.persianDateInput').persianDatepicker({
+                format: 'YYYY/MM/DD',
+                autoClose: true
+            });
         });
 
     $(document).on("submit",
@@ -78,11 +82,10 @@ $(document).ready(function () {
 function CallBackHandler(data, action, form) {
     switch (action) {
         case "Message":
-            alert(data.message);
+            alert(data.Message);
             break;
         case "Refresh":
             if (data.isSuccedded) {
-                alert(data.message);
                 window.location.reload();
             } else {
                 alert(data.message);
@@ -102,6 +105,7 @@ function CallBackHandler(data, action, form) {
                 $(`#${element}`).html(data);
             }
             break;
+        default:
     }
 }
 
@@ -192,15 +196,15 @@ jQuery.validator.addMethod("maxFileSize",
     });
 jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");
 
-jQuery.validator.addMethod("maxFileSize",
-   function (value, element, params) {
-       var size = element.files[0].size;
-       var maxSize = 3 * 1024 * 1024;
-       debugger;
-       if (size > maxSize)
-           return false;
-       else {
-           return true;
-       }
-   });
-jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");
+//jQuery.validator.addMethod("maxFileSize",
+//    function (value, element, params) {
+//        var size = element.files[0].size;
+//        var maxSize = 3 * 1024 * 1024;
+//        debugger;
+//        if (size > maxSize)
+//            return false;
+//        else {
+//            return true;
+//        }
+//    });
+//jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");

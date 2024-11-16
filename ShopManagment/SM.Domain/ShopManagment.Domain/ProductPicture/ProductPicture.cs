@@ -1,4 +1,4 @@
-﻿using _0_Freamwork.Domain;
+﻿using _0_Framwork.Domain;
 
 namespace ShopManagment.Domain
 {

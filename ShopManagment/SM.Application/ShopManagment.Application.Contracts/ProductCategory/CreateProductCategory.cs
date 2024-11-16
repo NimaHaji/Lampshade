@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using _0_Freamwork.Application;
+using _0_Framwork.Application;
 
 namespace ShopManagment.Application.Contracts.ProductCategory
 {

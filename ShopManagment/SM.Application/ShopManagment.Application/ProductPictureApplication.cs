@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using _0_Freamwork;
-using _0_Freamwork.Application;
+using _0_Framwork;
+using _0_Framwork.Application;
 using ShopManagment.Application.Contracts.ProductPicture;
 using ShopManagment.Domain;
 

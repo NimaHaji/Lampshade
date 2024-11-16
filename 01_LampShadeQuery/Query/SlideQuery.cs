@@ -2,7 +2,7 @@
 using _01_LampShadeQuery.Contracts.Slide;
 using ShopManagment.Infrastructure.EFCore;
 
-namespace _01_LampShadeQuery.Contracts.Query
+namespace _01_LampShadeQuery.Query
 {
     public class SlideQuery : ISlideQuery
     {

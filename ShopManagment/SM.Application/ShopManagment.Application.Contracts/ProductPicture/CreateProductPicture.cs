@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using _0_Freamwork.Application;
+using _0_Framwork.Application;
 using ShopManagment.Application.Contracts.Product;
 namespace ShopManagment.Application.Contracts.ProductPicture
 {

@@ -1,10 +1,8 @@
 ﻿using System.Collections.Generic;
-using _0_Freamwork;
-using _0_Freamwork.Application;
-using ShopManagment.Application.Contracts;
 using ShopManagment.Application.Contracts.Slide;
 using ShopManagment.Domain;
-
+using _0_Framwork.Application;
+using _0_Framwork;
 namespace ShopManagment.Application
 {
     public class SlideApplication : ISlideApplication

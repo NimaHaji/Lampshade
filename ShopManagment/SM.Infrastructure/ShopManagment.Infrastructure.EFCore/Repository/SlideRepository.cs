@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using _0_Freamwork.Domain;
-using _0_Freamwork.Infrastructure;
+using _0_Framework.Application;
+using _0_Framwork.Infrastructure;
 using ShopManagment.Application.Contracts.Slide;
 using ShopManagment.Domain;
 
@@ -39,7 +39,7 @@ namespace ShopManagment.Infrastructure.EFCore
                 Picture=x.Picture,
                 Heading=x.Heading,
                 Title=x.Title,
-                CreationDate=x.CreationDate.ToString()
+                CreationDate=x.CreationDate.ToFarsi()
             }).OrderByDescending(x=>x.Id).ToList();
         }
     }

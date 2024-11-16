@@ -18,7 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <!-- <ProjectReference Include="..\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\DiscountManagement.Infrastructure.Configuration.csproj" /> -->
     <ProjectReference Include="..\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\ShopManagment.Infrastructure.Configuration.csproj" />
+    <ProjectReference Include="..\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\DiscountManagement.Infrastructure.Configuration.csproj" />
   </ItemGroup>
 
   <ItemGroup>

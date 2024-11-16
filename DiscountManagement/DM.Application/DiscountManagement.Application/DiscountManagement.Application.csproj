@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DiscountMangement.Application.Contract\DiscountMangement.Application.Contract.csproj" />
+    <ProjectReference Include="..\..\..\ServiceHost\ServiceHost.csproj" />
+    <ProjectReference Include="..\..\DM.Domain\DiscountManagement.Domain\DiscountManagement.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

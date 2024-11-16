@@ -1,4 +1,4 @@
-﻿namespace _0_Freamwork.Application
+﻿namespace _0_Framwork.Application
 {
     public class OperationResult
     {

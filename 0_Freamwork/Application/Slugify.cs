@@ -2,20 +2,22 @@
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace _0_Freamwork.Application
+namespace _0_Framework.Application
 {
-    public static class Slugify
+    public static class GenerateSlug
     {
-        public static string GenerateSlug(this string pharse)
+        public static string Slugify(this string phrase)
         {
-            var s = pharse.RemoveDiacritics().ToLower();
-            s = Regex.Replace(s, @"[^\u0600-\u06FF\uFB8A\u067E\u0686\u06AF\u200C\u200Fa-z0-9\s-]", "");
-            s = Regex.Replace(s, @"\s+", " ").Trim();
-            s = s.Substring(0, s.Length <= 100 ? s.Length : 45).Trim();
-            s = Regex.Replace(s, @"\s", "-");
-            s = Regex.Replace(s, @"", "-");
+            var s = phrase.RemoveDiacritics().ToLower();
+            s = Regex.Replace(s, @"[^\u0600-\u06FF\uFB8A\u067E\u0686\u06AF\u200C\u200Fa-z0-9\s-]",
+                ""); // remove invalid characters
+            s = Regex.Replace(s, @"\s+", " ").Trim(); // single space
+            s = s.Substring(0, s.Length <= 100 ? s.Length : 45).Trim(); // cut and trim
+            s = Regex.Replace(s, @"\s", "-"); // insert hyphens        
+            s = Regex.Replace(s, @"‌", "-"); // half space
             return s.ToLower();
         }
+
         public static string RemoveDiacritics(this string text)
         {
             if (string.IsNullOrWhiteSpace(text))

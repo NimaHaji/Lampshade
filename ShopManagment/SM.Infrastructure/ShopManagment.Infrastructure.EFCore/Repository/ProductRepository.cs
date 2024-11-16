@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using _0_Freamwork.Infrastructure;
+using _0_Framework.Application;
+using _0_Framwork.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using ShopManagment.Application.Contracts.Product;
 using ShopManagment.Domain;
@@ -60,7 +61,7 @@ namespace ShopManagment.Infrastructure.EFCore
                 Code=x.Code,
                 Picture=x.Picture,
                 IsInStock=x.IsInStock,
-                CreationDate=x.CreationDate.ToString()
+                CreationDate=x.CreationDate.ToFarsi()
             });
 
             if(!string.IsNullOrWhiteSpace(searchModel.Name))

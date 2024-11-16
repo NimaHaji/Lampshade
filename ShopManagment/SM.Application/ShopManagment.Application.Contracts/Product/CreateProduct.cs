@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using _0_Freamwork.Application;
+using _0_Framwork.Application;
 using ShopManagment.Application.Contracts.ProductCategory;
 
 namespace ShopManagment.Application.Contracts.Product
 {
 
-public class CreateProduct
+    public class CreateProduct
 {
     [Required(ErrorMessage = ValidationMessages.IsRequired)]
     public string Name { get; set; }

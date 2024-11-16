@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "omMjSYZVgwiubAHJoif3nTTNEQvIy3XvfULwMM+QOVQ=",
+  "Hash": "XvrZ5A1E8UadzcZt+7cBZWjD/NVH74y0RHpSNKUMBrA=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -4378,8 +4378,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u6ygayijr9",
-      "Integrity": "6vxMKiAPdTW2hwD+l2aIdiQIzkGSGaLJxt3bGNxhfac=",
+      "Fingerprint": "gnffqf22ri",
+      "Integrity": "BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\site.js"
@@ -26296,6 +26296,51 @@
       ]
     },
     {
+      "Route": "AdminTheme/assets/js/site.gnffqf22ri.js",
+      "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Nov 2024 15:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnffqf22ri"
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0="
+        }
+      ]
+    },
+    {
       "Route": "AdminTheme/assets/js/site.js",
       "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
       "Selectors": [],
@@ -26306,7 +26351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6395"
+          "Value": "6554"
         },
         {
           "Name": "Content-Type",
@@ -26314,11 +26359,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6vxMKiAPdTW2hwD+l2aIdiQIzkGSGaLJxt3bGNxhfac=\""
+          "Value": "\"BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Sep 2024 15:23:06 GMT"
+          "Value": "Wed, 06 Nov 2024 15:50:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26328,52 +26373,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6vxMKiAPdTW2hwD+l2aIdiQIzkGSGaLJxt3bGNxhfac="
-        }
-      ]
-    },
-    {
-      "Route": "AdminTheme/assets/js/site.u6ygayijr9.js",
-      "AssetFile": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6395"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6vxMKiAPdTW2hwD+l2aIdiQIzkGSGaLJxt3bGNxhfac=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Sep 2024 15:23:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u6ygayijr9"
-        },
-        {
-          "Name": "label",
-          "Value": "AdminTheme/assets/js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6vxMKiAPdTW2hwD+l2aIdiQIzkGSGaLJxt3bGNxhfac="
+          "Value": "sha256-BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0="
         }
       ]
     },
@@ -36896,7 +36896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Nov 2024 22:04:33 GMT"
+          "Value": "Sun, 03 Nov 2024 22:11:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36941,7 +36941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Nov 2024 22:04:33 GMT"
+          "Value": "Sun, 03 Nov 2024 22:11:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36978,7 +36978,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Nov 2024 22:08:51 GMT"
+          "Value": "Tue, 05 Nov 2024 19:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37015,7 +37015,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 03 Nov 2024 22:08:51 GMT"
+          "Value": "Tue, 05 Nov 2024 19:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
