@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43676167-C7EA-4BC0-85C2-A5BE6264E968}|ServiceHost\\ServiceHost.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\servicehost\\areas\\adminstration\\pages\\shop\\productcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43676167-C7EA-4BC0-85C2-A5BE6264E968}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\adminstration\\pages\\shop\\productcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38349CEE-BA88-46D2-B7C1-6112D155B46E}|ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\shopmanagment\\sm.infrastructure\\shopmanagment.infrastructure.efcore\\shopmanagment.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{38349CEE-BA88-46D2-B7C1-6112D155B46E}|ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj|solutionrelative:shopmanagment\\sm.infrastructure\\shopmanagment.infrastructure.efcore\\shopmanagment.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43676167-C7EA-4BC0-85C2-A5BE6264E968}|ServiceHost\\ServiceHost.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\servicehost\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43676167-C7EA-4BC0-85C2-A5BE6264E968}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AA2388-72C2-4EB9-BB5D-AB4463B2783A}|0_Freamwork\\0_Freamwork.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\0_freamwork\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AA2388-72C2-4EB9-BB5D-AB4463B2783A}|0_Freamwork\\0_Freamwork.csproj|solutionrelative:0_freamwork\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47FA1BFD-6DA0-412F-9E88-1D98114E9023}|DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\discountmanagement\\dm.infrastructure\\discountmanagement.infrastructure.efcore\\repository\\customerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA1BFD-6DA0-412F-9E88-1D98114E9023}|DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|solutionrelative:discountmanagement\\dm.infrastructure\\discountmanagement.infrastructure.efcore\\repository\\customerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AA2388-72C2-4EB9-BB5D-AB4463B2783A}|0_Freamwork\\0_Freamwork.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\0_freamwork\\0_freamwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80AA2388-72C2-4EB9-BB5D-AB4463B2783A}|0_Freamwork\\0_Freamwork.csproj|solutionrelative:0_freamwork\\0_freamwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{43676167-C7EA-4BC0-85C2-A5BE6264E968}|ServiceHost\\ServiceHost.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\servicehost\\servicehost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43676167-C7EA-4BC0-85C2-A5BE6264E968}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\servicehost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA1BFD-6DA0-412F-9E88-1D98114E9023}|DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\discountmanagement\\dm.infrastructure\\discountmanagement.infrastructure.efcore\\discountmanagement.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47FA1BFD-6DA0-412F-9E88-1D98114E9023}|DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|solutionrelative:discountmanagement\\dm.infrastructure\\discountmanagement.infrastructure.efcore\\discountmanagement.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AA2388-72C2-4EB9-BB5D-AB4463B2783A}|0_Freamwork\\0_Freamwork.csproj|e:\\code\\asp.net-core\\projects\\lampshade\\0_freamwork\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AA2388-72C2-4EB9-BB5D-AB4463B2783A}|0_Freamwork\\0_Freamwork.csproj|solutionrelative:0_freamwork\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,48 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\Areas\\Adminstration\\Pages\\shop\\ProductCategory\\Create.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Adminstration\\Pages\\shop\\ProductCategory\\Create.cshtml",
-              "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\Areas\\Adminstration\\Pages\\shop\\ProductCategory\\Create.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Adminstration\\Pages\\shop\\ProductCategory\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T19:28:22.829Z",
+              "DocumentIndex": 3,
+              "Title": "DiscountManagement.Infrastructure.EFCore",
+              "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+              "RelativeDocumentMoniker": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+              "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+              "RelativeToolTip": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+              "ViewState": "AQIAAAgAAACAMjMzMzMbwBYAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T17:41:22.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShopManagment.Infrastructure.EFCore.csproj",
-              "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
-              "RelativeDocumentMoniker": "ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
-              "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
-              "RelativeToolTip": "ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-30T18:01:49.491Z"
+              "Title": "CustomerDiscountRepository.cs",
+              "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "RelativeDocumentMoniker": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "RelativeToolTip": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "ViewState": "AQIAABsAAAAAHDMzMzPTvwsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:39:01.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ServiceHost",
+              "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj",
+              "RelativeDocumentMoniker": "ServiceHost\\ServiceHost.csproj",
+              "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj",
+              "RelativeToolTip": "ServiceHost\\ServiceHost.csproj",
+              "ViewState": "AQIAAAkAAAAANDMzMzMLwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T17:35:39.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\Startup.cs",
               "RelativeDocumentMoniker": "ServiceHost\\Startup.cs",
               "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\Startup.cs",
               "RelativeToolTip": "ServiceHost\\Startup.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwBsAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T17:43:48.001Z"
+              "WhenOpened": "2024-08-30T17:43:48.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\Infrastructure\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "0_Freamwork\\Infrastructure\\RepositoryBase.cs",
@@ -80,18 +95,6 @@
               "ViewState": "AQIAAAMAAACAZ2ZmZmYkwAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T20:35:32.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "0_Freamwork.csproj",
-              "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
-              "RelativeDocumentMoniker": "0_Freamwork\\0_Freamwork.csproj",
-              "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
-              "RelativeToolTip": "0_Freamwork\\0_Freamwork.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-25T20:35:04.092Z"
             }
           ]
         }

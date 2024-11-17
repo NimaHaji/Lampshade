@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DiscountMangement.Application.Contract\DiscountMangement.Application.Contract.csproj" />
-    <ProjectReference Include="..\..\..\ServiceHost\ServiceHost.csproj" />
+    <!-- <ProjectReference Include="..\..\..\ServiceHost\ServiceHost.csproj" /> -->
     <ProjectReference Include="..\..\DM.Domain\DiscountManagement.Domain\DiscountManagement.Domain.csproj" />
   </ItemGroup>
 

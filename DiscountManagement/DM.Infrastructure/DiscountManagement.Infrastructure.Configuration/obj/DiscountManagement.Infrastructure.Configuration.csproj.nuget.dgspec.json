@@ -197,9 +197,6 @@
               },
               "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
                 "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
-              },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj"
               }
             }
           }
@@ -443,6 +440,9 @@
               },
               "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              },
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj"
               }
             }
           }
@@ -531,6 +531,12 @@
             "projectReferences": {
               "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
                 "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+              },
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
+              },
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -597,115 +603,6 @@
             }
           ],
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj",
-        "projectName": "ServiceHost",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.5, 8.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.5, 8.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.5, 8.0.5]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.5, 8.0.5]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

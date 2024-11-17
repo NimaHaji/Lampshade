@@ -18,6 +18,8 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\ShopManagment\SM.Domain\ShopManagment.Domain\ShopManagment.Domain.csproj" />
+    <ProjectReference Include="..\..\..\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.EFCore\ShopManagment.Infrastructure.EFCore.csproj" />
     <ProjectReference Include="..\..\DM.Domain\DiscountManagement.Domain\DiscountManagement.Domain.csproj" />
   </ItemGroup>
 </Project>

@@ -1,5 +1,5 @@
 ﻿using ShopManagment.Infrastructure.Configuration;
-using 
+using DiscountManagement.Infrastructure.Configuration;
 namespace ServiceHost
 {
     public class Startup
@@ -16,7 +16,7 @@ namespace ServiceHost
         {
             var connection=Configuration.GetConnectionString("LampShadeProject");
             ShopManagmentBootStraper.configure(services,connection);
-            // DiscountManagementBootStraper.Configure(services,connection);
+            DiscountManagementBootStraper.Configure(services,connection);
             services.AddRazorPages();
         }
 

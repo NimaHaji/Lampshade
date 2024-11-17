@@ -4554,8 +4554,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "DiscountManagement.Domain": "1.0.0",
-          "DiscountMangement.Application.Contract": "1.0.0",
-          "ServiceHost": "1.0.0"
+          "DiscountMangement.Application.Contract": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DiscountManagement.Application.dll": {}
@@ -4584,7 +4583,9 @@
         "dependencies": {
           "DiscountManagement.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
+          "ShopManagment.Domain": "1.0.0",
+          "ShopManagment.Infrastructure.EFCore": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DiscountManagement.Infrastructure.EFCore.dll": {}
@@ -4605,26 +4606,6 @@
         "runtime": {
           "bin/placeholder/DiscountMangement.Application.Contract.dll": {}
         }
-      },
-      "ServiceHost/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
-          "Microsoft.EntityFrameworkCore": "8.0.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4",
-          "ShopManagment.Infrastructure.Configuration": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ServiceHost.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ServiceHost.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       },
       "ShopManagment.Application/1.0.0": {
         "type": "project",
@@ -13413,11 +13394,6 @@
       "path": "../../DM.Application/DiscountMangement.Application.Contract/DiscountMangement.Application.Contract.csproj",
       "msbuildProject": "../../DM.Application/DiscountMangement.Application.Contract/DiscountMangement.Application.Contract.csproj"
     },
-    "ServiceHost/1.0.0": {
-      "type": "project",
-      "path": "../../../ServiceHost/ServiceHost.csproj",
-      "msbuildProject": "../../../ServiceHost/ServiceHost.csproj"
-    },
     "ShopManagment.Application/1.0.0": {
       "type": "project",
       "path": "../../../ShopManagment/SM.Application/ShopManagment.Application/ShopManagment.Application.csproj",
@@ -13450,7 +13426,8 @@
       "DiscountManagement.Infrastructure.EFCore >= 1.0.0",
       "DiscountMangement.Application.Contract >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.1"
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.1",
+      "ShopManagment.Infrastructure.Configuration >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13488,6 +13465,9 @@
             },
             "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
               "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+            },
+            "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
+              "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj"
             }
           }
         }
@@ -13552,10 +13532,104 @@
   },
   "logs": [
     {
-      "code": "NU1900",
+      "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Formats.Asn1' 6.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-447r-wph3-92pm",
+      "libraryId": "System.Formats.Asn1",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.Xml' 4.5.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vh55-786g-wjwj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        "net8.0"
+      ]
     }
   ]
 }

@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>9e824536-a2ed-4a69-b613-a89fc6047d96</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,9 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- <ProjectReference Include="..\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\DiscountManagement.Infrastructure.Configuration.csproj" /> -->
-    <ProjectReference Include="..\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\ShopManagment.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\DiscountManagement.Infrastructure.Configuration.csproj" />
+    <ProjectReference Include="..\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\ShopManagment.Infrastructure.Configuration.csproj" />
   </ItemGroup>
 
   <ItemGroup>
