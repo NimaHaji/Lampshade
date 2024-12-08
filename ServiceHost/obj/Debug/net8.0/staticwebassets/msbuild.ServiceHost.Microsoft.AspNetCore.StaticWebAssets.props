@@ -756,6 +756,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\material-design-iconic-font.min.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\persian-datepicker.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>AdminTheme/assets/css/persian-datepicker.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7ut2rmch5b</Fingerprint>
+      <Integrity>jxaYwzw0w7QZGi72WucXy5dARD1Bu7TskE4HK6w7aP4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\persian-datepicker.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\style.css'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
@@ -3702,8 +3720,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cfs8zrbb1k</Fingerprint>
-      <Integrity>GP9ljBOs4gXBBcNrcxG0jQp1pd9Tr1CF+k3yWefA39g=</Integrity>
+      <Fingerprint>i09m9lj5iu</Fingerprint>
+      <Integrity>ImSVrPbY3n8wdpIf/E9nyp5gktTPOdvoBCbbRQbZNmE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\persian-date.min.js'))</OriginalItemSpec>
@@ -3720,8 +3738,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>unutab88wu</Fingerprint>
-      <Integrity>hunCjLOUyH/1pcY1LG1graWKKh4UPWt8AzrC/UZOzjg=</Integrity>
+      <Fingerprint>sw3hcwlqs1</Fingerprint>
+      <Integrity>9PXscjTeN6PxSA8T5MCKVYHcc/lNmd87C8Oq11kgG6Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\persian-datepicker.min.js'))</OriginalItemSpec>

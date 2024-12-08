@@ -23,7 +23,7 @@ namespace DiscountManagement.Application.CustomerDiscounts
             var startdate = command.StartDate.ToGeorgianDateTime();
             var enddate = command.EndDate.ToGeorgianDateTime();
 
-            CustomerDiscount customerDiscount = new(command.ProductId, command.DiscountRate, startdate, enddate, command.Reason);
+            CustomerDiscount customerDiscount = new CustomerDiscount(command.ProductId, command.DiscountRate, startdate, enddate, command.Reason);
 
             _customerDiscountRepository.Create(customerDiscount);
             _customerDiscountRepository.SaveChanges();

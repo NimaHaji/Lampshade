@@ -3059,7 +3059,8 @@
       },
       "DiscountMangement.Application.Contract/1.0.0": {
         "dependencies": {
-          "0_Freamwork": "1.0.0"
+          "0_Freamwork": "1.0.0",
+          "ShopManagment.Application.Contracts": "1.0.0"
         },
         "runtime": {
           "DiscountMangement.Application.Contract.dll": {

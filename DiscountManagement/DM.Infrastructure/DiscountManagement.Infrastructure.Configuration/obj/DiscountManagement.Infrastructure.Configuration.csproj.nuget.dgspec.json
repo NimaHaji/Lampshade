@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj": {}
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj": {}
   },
   "projects": {
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
         "projectName": "01_LampShadeQuery",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -82,24 +80,22 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
         "projectName": "0_Freamwork",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -168,35 +164,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
         "projectName": "DiscountManagement.Application",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
               }
             }
           }
@@ -249,32 +243,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
         "projectName": "DiscountMangement.Application.Contract",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              },
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               }
             }
           }
@@ -327,35 +322,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "projectName": "DiscountManagement.Domain",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
               }
             }
           }
@@ -408,41 +401,39 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj",
         "projectName": "DiscountManagement.Infrastructure.Configuration",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj"
               }
             }
           }
@@ -462,13 +453,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -505,38 +502,36 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
         "projectName": "DiscountManagement.Infrastructure.EFCore",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -611,32 +606,30 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
         "projectName": "ShopManagment.Application.Contracts",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               }
             }
           }
@@ -695,38 +688,36 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj",
         "projectName": "ShopManagment.Application",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
               }
             }
           }
@@ -779,35 +770,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
         "projectName": "ShopManagment.Domain",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               }
             }
           }
@@ -860,41 +849,39 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj",
         "projectName": "ShopManagment.Infrastructure.Configuration",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\ShopManagment.Infrastructure.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application\\ShopManagment.Application.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -957,35 +944,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
         "projectName": "ShopManagment.Infrastructure.EFCore",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
               }
             }
           }

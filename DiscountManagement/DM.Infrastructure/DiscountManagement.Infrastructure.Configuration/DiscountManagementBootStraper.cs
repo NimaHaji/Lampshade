@@ -8,11 +8,11 @@ namespace DiscountManagement.Infrastructure.Configuration
 {
     public class DiscountManagementBootStraper
     {
-        public static void Configure(IServiceCollection services,string Connection){
+        public static void Configure(IServiceCollection services,string ConnectionString){
             services.AddTransient<ICustomerDiscountApplication,CustomerDiscountApplication>();
             services.AddTransient<ICustomerDiscountRepository,CustomerDiscountRepository>();
 
-            services.AddDbContext<DiscountContext>(x=>x.UseSqlServer(Connection));
+            services.AddDbContext<DiscountContext>(x=>x.UseSqlServer(ConnectionString));
         }
     }
 }

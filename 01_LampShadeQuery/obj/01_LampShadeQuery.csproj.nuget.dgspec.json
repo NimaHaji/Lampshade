@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {}
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {}
   },
   "projects": {
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
         "projectName": "01_LampShadeQuery",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\01_LampShadeQuery.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\01_LampShadeQuery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -82,24 +80,22 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
         "projectName": "0_Freamwork",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -168,32 +164,30 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
         "projectName": "ShopManagment.Application.Contracts",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               }
             }
           }
@@ -252,35 +246,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
         "projectName": "ShopManagment.Domain",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               }
             }
           }
@@ -333,35 +325,33 @@
         }
       }
     },
-    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
+    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
         "projectName": "ShopManagment.Infrastructure.EFCore",
-        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\NimaHaji\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\obj\\",
+        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\ShopManagment.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Infrastructure\\ShopManagment.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NimaHaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nima\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
-                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
+              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj": {
+                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Domain\\ShopManagment.Domain\\ShopManagment.Domain.csproj"
               }
             }
           }

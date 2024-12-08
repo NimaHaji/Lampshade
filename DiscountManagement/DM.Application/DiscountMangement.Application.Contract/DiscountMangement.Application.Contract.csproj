@@ -2,8 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\0_Freamwork\0_Freamwork.csproj" />
+    <ProjectReference Include="..\..\..\ShopManagment\SM.Application\ShopManagment.Application.Contracts\ShopManagment.Application.Contracts.csproj" />
   </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

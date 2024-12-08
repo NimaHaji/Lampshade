@@ -35,15 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DiscountManagement.Infrastructure.EFCore",
+              "Title": "DiscountManagement.Infrastructure.EFCore.csproj",
               "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
               "RelativeDocumentMoniker": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
               "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
               "RelativeToolTip": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
               "ViewState": "AQIAAAgAAACAMjMzMzMbwBYAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-17T17:41:22.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T17:41:22.563Z"
             },
             {
               "$type": "Document",
@@ -55,21 +54,19 @@
               "RelativeToolTip": "DiscountManagement\\DM.Infrastructure\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
               "ViewState": "AQIAABsAAAAAHDMzMzPTvwsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T17:39:01.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T17:39:01.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ServiceHost",
+              "Title": "ServiceHost.csproj",
               "DocumentMoniker": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj",
               "RelativeDocumentMoniker": "ServiceHost\\ServiceHost.csproj",
               "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\ServiceHost.csproj",
               "RelativeToolTip": "ServiceHost\\ServiceHost.csproj",
               "ViewState": "AQIAAAkAAAAANDMzMzMLwBYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-17T17:35:39.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T17:35:39.66Z"
             },
             {
               "$type": "Document",
@@ -79,7 +76,7 @@
               "RelativeDocumentMoniker": "ServiceHost\\Startup.cs",
               "ToolTip": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\Startup.cs",
               "RelativeToolTip": "ServiceHost\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "ViewState": "AQIAABgAAADAzMzMzMwtwAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T17:43:48.001Z",
               "EditorCaption": ""

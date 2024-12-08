@@ -1,1775 +1,1779 @@
 {
   "Files": [
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-inputmask\\bootstrap-inputmask.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-inputmask\\bootstrap-inputmask.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap-inputmask\\bootstrap-inputmask.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\bootstrap-wysihtml5.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\bootstrap-wysihtml5.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap-wysihtml5\\bootstrap-wysihtml5.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\bootstrap-wysihtml5.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\bootstrap-wysihtml5.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap-wysihtml5\\bootstrap-wysihtml5.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\wysihtml5-0.3.0.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\wysihtml5-0.3.0.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap-wysihtml5\\wysihtml5-0.3.0.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\wysiwyg-color.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap-wysihtml5\\wysiwyg-color.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap-wysihtml5\\wysiwyg-color.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\bootstrap-editable.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\bootstrap-editable.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap3-editable\\bootstrap-editable.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\bootstrap-editable.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\bootstrap-editable.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap3-editable\\bootstrap-editable.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\clear.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\clear.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap3-editable\\clear.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\demo-xeditable.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\demo-xeditable.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap3-editable\\demo-xeditable.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\loading.gif",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\loading.gif",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap3-editable\\loading.gif"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\moment.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\bootstrap3-editable\\moment.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\bootstrap3-editable\\moment.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\chartjs\\chart.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\chartjs\\chart.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\chartjs\\chart.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\chartjs\\chartjs.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\chartjs\\chartjs.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\chartjs\\chartjs.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\chat\\moment-2.2.1.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\chat\\moment-2.2.1.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\chat\\moment-2.2.1.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\ambiance.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\ambiance.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\ambiance.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\codemirror.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\codemirror.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\codemirror.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\codemirror.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\codemirror.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\codemirror.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\custom.codemirror.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\custom.codemirror.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\custom.codemirror.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\formatting.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\formatting.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\formatting.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\javascript.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\javascript.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\javascript.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\xml.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\codemirror\\xml.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\codemirror\\xml.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\bootstrap-colorpicker.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\bootstrap-colorpicker.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\colorpicker\\bootstrap-colorpicker.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\colorpicker.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\colorpicker.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\colorpicker\\colorpicker.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\img\\alpha.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\img\\alpha.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\colorpicker\\img\\alpha.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\img\\hue.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\img\\hue.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\colorpicker\\img\\hue.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\img\\saturation.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\colorpicker\\img\\saturation.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\colorpicker\\img\\saturation.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\comingsoon\\jquery.countdown.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\comingsoon\\jquery.countdown.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\comingsoon\\jquery.countdown.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\comingsoon\\jquery.simple-text-rotator.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\comingsoon\\jquery.simple-text-rotator.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\comingsoon\\jquery.simple-text-rotator.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\comingsoon\\simpletextrotator.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\comingsoon\\simpletextrotator.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\comingsoon\\simpletextrotator.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\counterup\\jquery.counterup.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\counterup\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\counterup\\jquery.counterup.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\counterup\\waypoints.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\counterup\\waypoints.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\counterup\\waypoints.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\animate.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\animate.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-theme.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.css.map",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-theme.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-v4.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap-v4.map",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap-v4.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\helper.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\helper.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\helper.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style-responsive.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\persian-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style-responsive.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\style-responsive.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\style.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\waves-effect.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\waves-effect.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\css\\waves-effect.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\dataTables.bootstrap.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\dataTables.bootstrap.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\datatables\\dataTables.bootstrap.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\datatables.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\datatables.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\datatables\\datatables.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\jquery.dataTables.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\datatables\\jquery.dataTables.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\jquery.dataTables.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\jquery.dataTables.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\datatables\\jquery.dataTables.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\jquery.dataTables.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\datatables\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\datatables\\jquery.dataTables.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\dropzone.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\dropzone.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\dropzone\\dropzone.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\dropzone.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\dropzone.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\dropzone\\dropzone.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\spritemap.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\spritemap.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\dropzone\\spritemap.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\spritemap@2x.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\dropzone\\spritemap@2x.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\dropzone\\spritemap@2x.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\easypie-chart\\easypiechart.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\easypie-chart\\easypiechart.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\easypie-chart\\easypiechart.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\easypie-chart\\example.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\easypie-chart\\example.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\easypie-chart\\example.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\easypie-chart\\jquery.easypiechart.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\easypie-chart\\jquery.easypiechart.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\easypie-chart\\jquery.easypiechart.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fastclick\\fastclick.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fastclick\\fastclick.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fastclick\\fastclick.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.crosshair.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.crosshair.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.crosshair.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.pie.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.pie.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.pie.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.resize.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.resize.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.resize.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.selection.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.selection.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.selection.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.stack.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.stack.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.stack.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.time.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.time.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.time.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.tooltip.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\flot-chart\\jquery.flot.tooltip.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\flot-chart\\jquery.flot.tooltip.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\css\\font-awesome.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\animated.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\animated.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\animated.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\bordered-pulled.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\core.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\core.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\core.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\fixed-width.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\font-awesome.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\icons.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\icons.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\icons.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\larger.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\larger.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\larger.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\list.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\list.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\list.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\mixins.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\mixins.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\mixins.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\path.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\path.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\path.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\rotated-flipped.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\spinning.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\spinning.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\spinning.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\stacked.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\stacked.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\stacked.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\variables.less",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\less\\variables.less",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\less\\variables.less"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_animated.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_core.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_fixed-width.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_icons.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_larger.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_list.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_mixins.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_path.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_spinning.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_spinning.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_spinning.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_stacked.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_variables.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\font-awesome.scss",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\bootstrap-validator.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\bootstrap-validator.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\form-wizard\\bootstrap-validator.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\jquery.steps.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\jquery.steps.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\form-wizard\\jquery.steps.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\jquery.steps.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\jquery.steps.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\form-wizard\\jquery.steps.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\wizard-init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\form-wizard\\wizard-init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\form-wizard\\wizard-init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\bootstrap-fullcalendar.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\bootstrap-fullcalendar.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\bootstrap-fullcalendar.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\dragging-calendar-event-init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\dragging-calendar-event-init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\dragging-calendar-event-init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\external-dragging-calendar.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\external-dragging-calendar.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\external-dragging-calendar.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\fullcalendar.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\fullcalendar.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\fullcalendar.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\moment.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\fullcalendar\\moment.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\fullcalendar\\moment.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\gallery\\isotope.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\gallery\\isotope.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\gallery\\isotope.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\gmaps\\gmaps-plugin.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\gmaps\\gmaps-plugin.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\gmaps\\gmaps-plugin.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\gmaps\\gmaps.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\gmaps\\gmaps.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\gmaps\\gmaps.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\avatar-1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\avatar-1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\big\\Thumbs.db",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\big\\Thumbs.db",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\big\\Thumbs.db"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\big\\bg.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\big\\bg.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\big\\bg.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\big\\img1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\big\\img1.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\big\\img1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\favicon_1.ico",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\favicon_1.ico",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\favicon_1.ico"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\1.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\10.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\10.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\10.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\11.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\11.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\11.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\12.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\12.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\12.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\2.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\3.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\4.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\4.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\4.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\5.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\5.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\5.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\6.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\6.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\6.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\7.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\7.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\7.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\8.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\8.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\8.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\9.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\gallery\\9.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\gallery\\9.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\logo_dark.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\logo_dark.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\logo_dark.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\Thumbs.db",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\Thumbs.db",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\small\\Thumbs.db"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\bg.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\bg.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\small\\bg.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\bg1.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\bg1.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\small\\bg1.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\img1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\img1.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\small\\img1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\img2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\img2.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\small\\img2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\img3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\small\\img3.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\small\\img3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\sort_asc.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\sort_asc.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\sort_asc.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\sort_both.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\sort_both.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\sort_both.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\Thumbs.db",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\Thumbs.db",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\Thumbs.db"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-10.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-10.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-10.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-2.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-3.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-4.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-4.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-4.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-5.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-5.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-5.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-6.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-6.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-6.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-7.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-7.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-7.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-8.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-8.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-8.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-9.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\images\\users\\avatar-9.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\images\\users\\avatar-9.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.skinFlat.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.skinFlat.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ion-rangeslider\\ion.rangeSlider.skinFlat.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\sprite-skin-flat.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\sprite-skin-flat.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ion-rangeslider\\sprite-skin-flat.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ui-sliders.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ion-rangeslider\\ui-sliders.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ion-rangeslider\\ui-sliders.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\css\\ionicons.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\css\\ionicons.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ionicon\\css\\ionicons.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\css\\ionicons.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\css\\ionicons.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ionicon\\css\\ionicons.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\ionicon\\fonts\\ionicons.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-blockui\\jquery.blockUI.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-blockui\\jquery.blockUI.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-blockui\\jquery.blockUI.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\dataTables.bootstrap.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\dataTables.bootstrap.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-datatables-editable\\dataTables.bootstrap.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\datatables.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\datatables.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-datatables-editable\\datatables.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\datatables.editable.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\datatables.editable.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-datatables-editable\\datatables.editable.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\jquery.dataTables.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-datatables-editable\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-datatables-editable\\jquery.dataTables.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-detectmobile\\detect.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-detectmobile\\detect.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-detectmobile\\detect.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-knob\\excanvas.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-knob\\excanvas.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-knob\\excanvas.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-knob\\jquery.knob.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-knob\\jquery.knob.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-knob\\jquery.knob.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\img\\switch.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\img\\switch.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-multi-select\\img\\switch.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\jquery.multi-select.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\jquery.multi-select.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-multi-select\\jquery.multi-select.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\jquery.quicksearch.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\jquery.quicksearch.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-multi-select\\jquery.quicksearch.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\multi-select.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-multi-select\\multi-select.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-multi-select\\multi-select.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-slimscroll\\jquery.slimscroll.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-slimscroll\\jquery.slimscroll.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-slimscroll\\jquery.slimscroll.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-slimscroll\\jquery.slimscroll.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-slimscroll\\jquery.slimscroll.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-slimscroll\\jquery.slimscroll.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-sparkline\\charts-sparkline.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-sparkline\\charts-sparkline.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-sparkline\\charts-sparkline.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-sparkline\\jquery.sparkline.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-sparkline\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery-sparkline\\jquery.sparkline.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery.validate\\form-validation-init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery.validate\\form-validation-init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery.validate\\form-validation-init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery.validate\\jquery.validate.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery.validate\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jquery.validate\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\bootstrap.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\bootstrap.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery-ui-1.10.1.custom.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery-ui-1.10.1.custom.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery-ui-1.10.1.custom.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.app.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.app.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.app.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.chat.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.chat.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.chat.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.dashboard.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.dashboard.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.dashboard.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.nicescroll.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.nicescroll.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.nicescroll.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.scrollTo.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.scrollTo.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.scrollTo.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.todo.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.todo.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\jquery.todo.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\modernizr.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\modernizr.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\modernizr.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\npm.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\npm.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\npm.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\persian-date.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\persian-datepicker.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\site.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\skycons.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\skycons.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\skycons.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\waves.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\waves.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\waves.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\wow.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\wow.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\gdp-data.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\gdp-data.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\gdp-data.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-2.0.2.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-2.0.2.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-2.0.2.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-2.0.2.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-2.0.2.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-2.0.2.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-europe-mill-en.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-europe-mill-en.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-europe-mill-en.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-uk-mill-en.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-uk-mill-en.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-uk-mill-en.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-us-aea-en.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-us-aea-en.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-us-aea-en.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-world-mill-en.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jquery-jvectormap-world-mill-en.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jvectormap.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jvectormap\\jvectormap.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\jvectormap\\jvectormap.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\magnific-popup\\magnific-popup.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\magnific-popup\\magnific-popup.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\magnific-popup\\magnific-popup.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\magnific-popup\\magnific-popup.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\magnific-popup\\magnific-popup.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\modal-effect\\css\\component.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\modal-effect\\css\\component.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\modal-effect\\css\\component.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\modal-effect\\js\\classie.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\modal-effect\\js\\classie.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\modal-effect\\js\\classie.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\modal-effect\\js\\modalEffects.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\modal-effect\\js\\modalEffects.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\modal-effect\\js\\modalEffects.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\morris.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\morris.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\morris\\morris.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\morris.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\morris.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\morris\\morris.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\morris.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\morris.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\morris\\morris.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\raphael.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\morris\\raphael.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\morris\\raphael.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\nestable\\jquery.nestable.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\nestable\\jquery.nestable.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\nestable\\jquery.nestable.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\nestable\\jquery.nestable.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\nestable\\jquery.nestable.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\nestable\\jquery.nestable.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\nestable\\nestable.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\nestable\\nestable.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\nestable\\nestable.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notification.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notification.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\notifications\\notification.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notifications.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notifications.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\notifications\\notifications.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notify-metro.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notify-metro.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\notifications\\notify-metro.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notify.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\notifications\\notify.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\notifications\\notify.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\peity-chart\\jquery.peity.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\peity-chart\\jquery.peity.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\peity-chart\\jquery.peity.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\peity-chart\\jquery.peity.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\peity-chart\\jquery.peity.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\peity-chart\\jquery.peity.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\radial\\radial.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\radial\\radial.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\radial\\radial.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\responsive-table\\rwd-table.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\responsive-table\\rwd-table.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\responsive-table\\rwd-table.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\responsive-table\\rwd-table.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\responsive-table\\rwd-table.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\responsive-table\\rwd-table.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\droparrows.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\droparrows.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\select2\\img\\droparrows.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\select2-spinner.gif",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\select2-spinner.gif",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\select2\\img\\select2-spinner.gif"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\select2.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\select2.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\select2\\img\\select2.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\select2x2.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\img\\select2x2.png",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\select2\\img\\select2x2.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\select2.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\select2.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\select2\\select2.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\select2.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\select2\\select2.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\select2\\select2.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\spinner\\spinner.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\spinner\\spinner.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\spinner\\spinner.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\summernote\\summernote.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\summernote\\summernote.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\summernote\\summernote.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\summernote\\summernote.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\summernote\\summernote.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\summernote\\summernote.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\sweet-alert.init.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\sweet-alert.init.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\sweet-alert\\sweet-alert.init.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\sweet-alert.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\sweet-alert.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\sweet-alert\\sweet-alert.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\sweet-alert.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\sweet-alert.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\sweet-alert\\sweet-alert.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\thumbs-up.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\sweet-alert\\thumbs-up.jpg",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\sweet-alert\\thumbs-up.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\tagsinput\\jquery.tagsinput.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\tagsinput\\jquery.tagsinput.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\tagsinput\\jquery.tagsinput.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\tagsinput\\jquery.tagsinput.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\tagsinput\\jquery.tagsinput.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\tagsinput\\jquery.tagsinput.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-datepicker.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-datepicker.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\timepicker\\bootstrap-datepicker.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-datepicker.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-datepicker.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\timepicker\\bootstrap-datepicker.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-timepicker.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-timepicker.min.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\timepicker\\bootstrap-timepicker.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-timepicker.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\timepicker\\bootstrap-timepicker.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\timepicker\\bootstrap-timepicker.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.css",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\toggles\\toggles.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\toggles\\toggles.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff2",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff2",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff2"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\Custom.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\style.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\style.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\vendors.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\vendors.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\vendors.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.eot",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.svg",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.ttf",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.woff",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.woff2",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.woff2",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.woff2"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.eot",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.eot",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\ionicons28b5.eot"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.svg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.svg",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\ionicons28b5.svg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.ttf",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.ttf",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\ionicons28b5.ttf"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.woff",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\ionicons28b5.woff",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\ionicons28b5.woff"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\backgrounds\\bkg_testimonials.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\backgrounds\\bkg_testimonials.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\backgrounds\\bkg_testimonials.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\backgrounds\\category-image-1820x400.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\backgrounds\\category-image-1820x400.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\backgrounds\\category-image-1820x400.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\banner7.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\banner7.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\banner7.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\banner8.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\banner8.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\banner8.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\banner9.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\banner9.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\banner9.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img-bottom-menu.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img-bottom-menu.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img-bottom-menu.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img1-middle-eposi1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img1-middle-eposi1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img1-middle-eposi1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img1-middle-eposi2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img1-middle-eposi2.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img1-middle-eposi2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img1-middle-eposi3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img1-middle-eposi3.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img1-middle-eposi3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img2-middle-eposi1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img2-middle-eposi1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img2-middle-eposi1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img2-middle-eposi2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img2-middle-eposi2.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img2-middle-eposi2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img2-middle-eposi3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\img2-middle-eposi3.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\img2-middle-eposi3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\slider-banner2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\banners\\slider-banner2.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\banners\\slider-banner2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\1-1170x743.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\1-1170x743.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\1-1170x743.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\2-1170x743.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\2-1170x743.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\2-1170x743.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\3-1170x743.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\3-1170x743.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\3-1170x743.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\comment-icon.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\comment-icon.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\comment-icon.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\1-370x235.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\1-370x235.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\slider\\1-370x235.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\2-370x235.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\2-370x235.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\slider\\2-370x235.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\3-370x235.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\3-370x235.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\slider\\3-370x235.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\4-370x235.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\4-370x235.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\slider\\4-370x235.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\5-370x235.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\blog\\slider\\5-370x235.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\blog\\slider\\5-370x235.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img1-top-eposi1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img1-top-eposi1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\category\\img1-top-eposi1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img2-top-eposi1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img2-top-eposi1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\category\\img2-top-eposi1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img3-top-eposi1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img3-top-eposi1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\category\\img3-top-eposi1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img4-top-eposi1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\category\\img4-top-eposi1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\category\\img4-top-eposi1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\favicon.ico",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\favicon.ico"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\Slider1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\Slider1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\Slider1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\Slider2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\Slider2.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\Slider2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\Slider3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\Slider3.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\Slider3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\de-de.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\de-de.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\de-de.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\en-gb.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\en-gb.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\en-gb.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\free_shipping.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\free_shipping.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\free_shipping.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-3-column-hover.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-3-column-hover.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\grid-3-column-hover.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-3-column.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-3-column.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\grid-3-column.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-4-column-hover.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-4-column-hover.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\grid-4-column-hover.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-4-column.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-4-column.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\grid-4-column.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-5-column-hover.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-5-column-hover.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\grid-5-column-hover.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-5-column.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\grid-5-column.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\grid-5-column.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\icon_testimonials.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\icon_testimonials.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\icon_testimonials.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\list-hover.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\list-hover.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\list-hover.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\list.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\list.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\list.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\money_back.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\money_back.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\money_back.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\support247.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\support247.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\icons\\support247.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\logo-footer-6.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\logo-footer-6.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\logo-footer-6.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\logo.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\logo.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\10-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\10-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\10-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\10-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\10-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\10-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\10_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\10_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\10_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\11-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\11-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\11-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\12-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\12-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\12-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\13-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\13-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\13-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\1_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\1_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\1_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\2-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\2-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\2-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\2_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\2_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\2_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\3-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\3-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\3-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\3_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\3_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\3_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\4-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\4-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\4-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\4_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\4_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\4_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\5-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\5-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\5-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\5-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\5-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\5-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\5_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\5_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\5_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\6-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\6-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\6-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\6-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\6-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\6-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\6_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\6_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\6_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\7-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\7-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\7-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\7-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\7-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\7-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\7_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\7_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\7_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\8-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\8-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\8-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\8-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\8-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\8-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\8_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\8_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\8_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\9-100x133.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\9-100x133.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\9-100x133.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\9-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\9-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\9-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\9_1-600x800.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\9_1-600x800.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\9_1-600x800.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-1.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-1.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\big1-1.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-2.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-2.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\big1-2.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-3.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-3.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\big1-3.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-4.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-4.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\big1-4.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-5.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\big1-5.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\big1-5.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\product-1-80x106.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\product-1-80x106.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\product-1-80x106.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\product-2-80x106.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\product-2-80x106.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\product-2-80x106.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\product-3-80x106.jpg",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\products\\product-3-80x106.jpg",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\products\\product-3-80x106.jpg"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\testimonial\\testimor1-72x72.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\testimonial\\testimor1-72x72.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\testimonial\\testimor1-72x72.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\testimonial\\testimor2-72x72.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\testimonial\\testimor2-72x72.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\testimonial\\testimor2-72x72.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\testimonial\\testimor3-72x72.png",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\img\\testimonial\\testimor3-72x72.png",
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\testimonial\\testimor3-72x72.png"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\active.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\active.js",
       "PackagePath": "staticwebassets\\Theme\\assets\\js\\active.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\ajax-mail.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\ajax-mail.js",
       "PackagePath": "staticwebassets\\Theme\\assets\\js\\ajax-mail.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\vendors.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\vendors.js",
       "PackagePath": "staticwebassets\\Theme\\assets\\js\\vendors.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\css\\site.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\favicon.ico",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\js\\site.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ServiceHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -34,6 +34,7 @@
     <!-- Custom Files -->
     <link href="~/AdminTheme/assets/css/helper.css" rel="stylesheet" type="text/css" />
     <link href="~/AdminTheme/assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="~/AdminTheme/assets/css/persian-datepicker.min.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -235,18 +236,15 @@
     <!-- Todo -->
     <script src="~/AdminTheme/assets/js/jquery.todo.js"></script>
     <script src="~/AdminTheme/assets/js/site.js"></script>
+    <script src="~/AdminTheme/assets/js/persian-datepicker.min.js"></script>
+    <script src="~/AdminTheme/assets/js/persian-date.min.js"></script>
     @RenderSection("Scripts", false)
-    <!-- <script type="text/javascript"> -->
-    <!-- /* ============================================== -->
-    <!-- Counter Up -->
-    <!-- =============================================== */ -->
-    <!-- jQuery(document).ready(function($) { -->
-    <!-- $('.counter').counterUp({ -->
-    <!-- delay: 100, -->
-    <!-- time: 1200 -->
-    <!-- }); -->
-    <!-- }); -->
-    <!-- </script> -->
+    <script>
+        $('.PersianDateInput').persianDatepicker({
+            format:'YYYY/MM/DD',
+            autoClose:true
+        });
+    </script>
 </body>
 
 </html>
