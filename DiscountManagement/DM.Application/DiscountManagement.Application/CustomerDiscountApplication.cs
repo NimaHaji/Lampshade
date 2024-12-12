@@ -3,7 +3,7 @@ using DiscountManagement.Application.Contract.CustomerDiscount;
 using DiscountManagement.Domain.CustomerDiscountAgg;
 using _0_Framwork;
 using _0_Framework.Application;
-namespace DiscountManagement.Application.CustomerDiscounts
+namespace DiscountManagement.Application
 {
     public class CustomerDiscountApplication : ICustomerDiscountApplication
     {
