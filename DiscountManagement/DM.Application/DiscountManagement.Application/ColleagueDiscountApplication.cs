@@ -1,7 +1,7 @@
 ﻿using _0_Framwork;
 using _0_Framwork.Application;
 using DiscountManagement.Domain.ColleagueDiscountAgg;
-using DiscountMangement.Application.Contract.ColleagueDiscount;
+using DiscountManagement.Application.Contract.ColleagueDiscount;
 namespace DiscountManagement.Application
 {
     public class ColleagueDiscountApplication : IColleagueDiscountApplication
@@ -66,7 +66,7 @@ namespace DiscountManagement.Application
             return OperationResult.Succedded();
         }
 
-        public List<ColleagueDiscountViewModel> Search(ColleagueSearchModel searchModel)
+        public List<ColleagueDiscountViewModel> Search(ColleagueDiscountSearchModel searchModel)
         {
             return _colleagueDiscountRepository.Search(searchModel);
         }

@@ -4,7 +4,7 @@ using DiscountManagement.Application;
 using DiscountManagement.Domain.CustomerDiscountAgg;
 using DiscountManagement.Infrastructure.EFCore.Repository;
 using Microsoft.EntityFrameworkCore;
-using DiscountMangement.Application.Contract.ColleagueDiscount;
+using DiscountManagement.Application.Contract.ColleagueDiscount;
 using DiscountManagement.Domain.ColleagueDiscountAgg;
 namespace DiscountManagement.Infrastructure.Configuration
 {

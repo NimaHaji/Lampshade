@@ -2,7 +2,7 @@
 using _0_Framework.Application;
 using _0_Framwork.Infrastructure;
 using DiscountManagement.Domain.ColleagueDiscountAgg;
-using DiscountMangement.Application.Contract.ColleagueDiscount;
+using DiscountManagement.Application.Contract.ColleagueDiscount;
 using ShopManagment.Infrastructure.EFCore;
 
 namespace DiscountManagement.Infrastructure.EFCore.Repository
@@ -11,9 +11,10 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
     {
         private readonly DiscountContext _context;
         private readonly ShopContext _shopContext;
-        public ColleagueDiscountRepository(DiscountContext context):base(context)
+        public ColleagueDiscountRepository(DiscountContext context, ShopContext shopContext) : base(context)
         {
             _context = context;
+            _shopContext = shopContext;
         }
 
         public EditColleagueDiscount GetDeatils(long id)
@@ -26,7 +27,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == id);
         }
 
-        public List<ColleagueDiscountViewModel> Search(ColleagueSearchModel searchModel)
+        public List<ColleagueDiscountViewModel> Search(ColleagueDiscountSearchModel searchModel)
         {
             var Products=_shopContext.Products.Select(x=>new {x.Id,x.Name}).ToList();
             var query = _context.ColleagueDiscounts.Select(x => new ColleagueDiscountViewModel
@@ -35,6 +36,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
                 CreationDate = x.CreationDate.ToFarsi(),
                 Id = x.Id,
                 DiscountRate = x.DiscountRate,
+                Isremoved=x.IsRemoved
             });
 
             if (searchModel.ProductId > 0)

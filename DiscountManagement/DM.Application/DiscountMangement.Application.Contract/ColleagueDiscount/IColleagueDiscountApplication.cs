@@ -1,6 +1,6 @@
 ﻿using _0_Framwork.Application;
 
-namespace DiscountMangement.Application.Contract.ColleagueDiscount
+namespace DiscountManagement.Application.Contract.ColleagueDiscount
 {
     public interface IColleagueDiscountApplication
     {
@@ -9,7 +9,7 @@ namespace DiscountMangement.Application.Contract.ColleagueDiscount
         OperationResult Restore(long Id);
         OperationResult Remove(long Id);
         EditColleagueDiscount GetDetails(long Id);
-        List<ColleagueDiscountViewModel> Search(ColleagueSearchModel searchModel);
+        List<ColleagueDiscountViewModel> Search(ColleagueDiscountSearchModel searchModel);
     }
 
 }

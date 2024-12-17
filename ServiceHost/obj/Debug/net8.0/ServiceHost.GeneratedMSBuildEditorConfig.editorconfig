@@ -26,6 +26,19 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/Discount/ColleagueDiscount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xEaXNjb3VudFxDb2xsZWFndWVEaXNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/Discount/ColleagueDiscount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xEaXNjb3VudFxDb2xsZWFndWVEaXNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/Discount/ColleagueDiscount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xEaXNjb3VudFxDb2xsZWFndWVEaXNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code/Asp.net-Core/Projects/LampShade/ServiceHost/Areas/Adminstration/Pages/Discount/CustomerDiscount/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zdHJhdGlvblxQYWdlc1xEaXNjb3VudFxDdXN0b21lckRpc2NvdW50XENyZWF0ZS5jc2h0bWw=

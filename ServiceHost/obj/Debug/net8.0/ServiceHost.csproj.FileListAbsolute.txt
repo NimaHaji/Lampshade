@@ -361,7 +361,6 @@ D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Refl
 D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Text.Json.dll
 D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\af\Humanizer.resources.dll
 D:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\ar\Humanizer.resources.dll
