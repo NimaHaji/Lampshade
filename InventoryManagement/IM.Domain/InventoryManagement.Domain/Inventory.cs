@@ -28,9 +28,9 @@ namespace InventoryManagement.Domain
             Operations.Add(operation);
             IsInStock = currentCount > 0;
         }
-        public void Reduce(long count, long operatorId, string Description,long ordeId)
+        public void Reduce(long count, long operatorId, string Description, long ordeId)
         {
-            var currentCount = CalculateCurrentInventoryStock()-count;
+            var currentCount = CalculateCurrentInventoryStock() - count;
             var operation = new InventoryOperation(true, count, operatorId, currentCount, Description, ordeId, Id);
             Operations.Add(operation);
             IsInStock = currentCount > 0;
@@ -60,5 +60,6 @@ namespace InventoryManagement.Domain
             }
         }
     }
+}
 
 

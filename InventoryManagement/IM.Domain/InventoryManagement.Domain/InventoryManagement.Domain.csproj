@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\0_Freamwork\0_Freamwork.csproj" />
+    <ProjectReference Include="..\..\..\InventoryManagement.Application.contracts\InventoryManagement.Application.contracts.csproj" />
   </ItemGroup>
 
 </Project>

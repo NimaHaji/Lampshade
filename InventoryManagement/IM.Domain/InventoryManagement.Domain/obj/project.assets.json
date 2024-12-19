@@ -211,6 +211,19 @@
         "runtime": {
           "bin/placeholder/0_Freamwork.dll": {}
         }
+      },
+      "InventoryManagement.Application.contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "0_Freamwork": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InventoryManagement.Application.contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryManagement.Application.contracts.dll": {}
+        }
       }
     }
   },
@@ -571,11 +584,17 @@
       "type": "project",
       "path": "../../../0_Freamwork/0_Freamwork.csproj",
       "msbuildProject": "../../../0_Freamwork/0_Freamwork.csproj"
+    },
+    "InventoryManagement.Application.contracts/1.0.0": {
+      "type": "project",
+      "path": "../../../InventoryManagement.Application.contracts/InventoryManagement.Application.contracts.csproj",
+      "msbuildProject": "../../../InventoryManagement.Application.contracts/InventoryManagement.Application.contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "0_Freamwork >= 1.0.0"
+      "0_Freamwork >= 1.0.0",
+      "InventoryManagement.Application.contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -612,6 +631,9 @@
           "projectReferences": {
             "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
               "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+            },
+            "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\InventoryManagement.Application.contracts\\InventoryManagement.Application.contracts.csproj": {
+              "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\InventoryManagement.Application.contracts\\InventoryManagement.Application.contracts.csproj"
             }
           }
         }
@@ -650,5 +672,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
