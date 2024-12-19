@@ -1,6 +1,6 @@
 ﻿namespace InventoryManagement.Application.contracts
 {
-    public class DecreaseInventory
+    public class ReduceInventory
     {
         public long ProductId { get; set; }
         public long Count { get; set; }
