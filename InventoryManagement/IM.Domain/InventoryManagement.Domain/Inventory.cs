@@ -6,16 +6,25 @@ namespace InventoryManagement.Domain
     public class Inventory : EntityBase
     {
         public long ProductId { get; private set; }
-        public double Price { get; private set; }
-        public bool IsInStock { get; private set; }
+        public double UnitPrice { get; private set; }
+        public bool InStock { get; private set; }
         public List<InventoryOperation> Operations { get; private set; }
         public Inventory(long productId, double price)
         {
             ProductId = productId;
-            Price = price;
-            IsInStock = false;
+            UnitPrice = price;
+            InStock = false;
         }
-        private long CalculateCurrentInventoryStock()
+        public Inventory()
+        {
+            
+        }
+        public void Edit(long productId, double price)
+        {
+            ProductId = productId;
+            UnitPrice = price;
+        }
+        public long CalculateCurrentInventoryStock()
         {
             var plus = Operations.Where(x => x.Operation).Sum(x => x.Count);
             var minus = Operations.Where(x => !x.Operation).Sum(x => x.Count);
@@ -26,14 +35,14 @@ namespace InventoryManagement.Domain
             var currentCount = CalculateCurrentInventoryStock() + count;
             var operation = new InventoryOperation(true, count, operatorId, currentCount, Description, 0, Id);
             Operations.Add(operation);
-            IsInStock = currentCount > 0;
+            InStock = currentCount > 0;
         }
-        public void Reduce(long count, long operatorId, string Description, long ordeId)
+        public void Reduce(long count, long operatorId, string description, long orderId)
         {
             var currentCount = CalculateCurrentInventoryStock() - count;
-            var operation = new InventoryOperation(true, count, operatorId, currentCount, Description, ordeId, Id);
+            var operation = new InventoryOperation(false, count, operatorId, currentCount, description, orderId, Id);
             Operations.Add(operation);
-            IsInStock = currentCount > 0;
+            InStock = currentCount > 0;
         }
         public class InventoryOperation
         {
@@ -57,6 +66,7 @@ namespace InventoryManagement.Domain
                 this.Description = description;
                 this.OrderId = orderId;
                 this.InventoryId = inventoryId;
+                this.OperationDate = DateTime.Now;
             }
         }
     }

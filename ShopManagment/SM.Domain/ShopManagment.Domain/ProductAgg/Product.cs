@@ -42,7 +42,8 @@ namespace ShopManagment.Domain
             UnitPrice = unitPrice;
             ShortDescripton = shortDescripton;
             Description = description;
-            Picture = picture;
+            if (!string.IsNullOrWhiteSpace(picture))
+                Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             Slug = slug;

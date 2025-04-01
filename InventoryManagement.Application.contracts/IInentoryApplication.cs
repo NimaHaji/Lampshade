@@ -7,14 +7,15 @@ using _0_Framwork.Application;
 
 namespace InventoryManagement.Application.contracts
 {
-    internal interface IInentoryApplication
+    public interface IInentoryApplication
     {
         OperationResult Create(CreateInventory command);
         OperationResult Edit(EditInventory command);
         OperationResult Increase(IncreaseInventory command);
-        OperationResult Decrease(List<ReduceInventory> command);
-        OperationResult Decrease(ReduceInventory command);
+        OperationResult Reduse(List<ReduceInventory> command);
+        OperationResult Reduse(ReduceInventory command);
         EditInventory GetDeatils(long id);
-        List<InventoryViewModel> Search(IncventorySearchModel searchModel);
+        List<InventoryViewModel> Search(InventorySearchModel searchModel);
+        List<InventoryOperationViewModel> GetOperationLog(long InventoryId);
     }
 }

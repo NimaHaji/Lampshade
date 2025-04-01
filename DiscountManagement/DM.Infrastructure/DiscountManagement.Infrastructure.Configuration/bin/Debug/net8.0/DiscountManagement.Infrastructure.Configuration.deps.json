@@ -11,6 +11,7 @@
           "DiscountManagement.Application": "1.0.0",
           "DiscountManagement.Infrastructure.EFCore": "1.0.0",
           "DiscountMangement.Application.Contract": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
@@ -1541,6 +1542,11 @@
           }
         }
       },
+      "Microsoft.EntityFrameworkCore.Tools/8.0.8": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "8.0.11"
+        }
+      },
       "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0"
@@ -3032,6 +3038,8 @@
       },
       "0_Freamwork/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "8.0.11"
         },
         "runtime": {
@@ -3087,6 +3095,47 @@
         },
         "runtime": {
           "DiscountMangement.Application.Contract.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InventoryManagement.Application.contracts/1.0.0": {
+        "dependencies": {
+          "0_Freamwork": "1.0.0",
+          "ShopManagment.Application.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Application.contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InventoryManagement.Domain/1.0.0": {
+        "dependencies": {
+          "0_Freamwork": "1.0.0",
+          "InventoryManagement.Application.contracts": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InventoryManagement.Infrastructure.EFCore/1.0.0": {
+        "dependencies": {
+          "InventoryManagement.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.11",
+          "Microsoft.EntityFrameworkCore.Design": "8.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
+          "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
+          "ShopManagment.Domain": "1.0.0",
+          "ShopManagment.Infrastructure.EFCore": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Infrastructure.EFCore.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -3895,6 +3944,13 @@
       "sha512": "sha512-A2F52W+hnGqvprx37HcAnYnJv4QoFFdc9cxd/QGNSd1vCu1I0eAEKRd0r9KS3E5I5RRj/m9XJfYCyTdy1cdn5Q==",
       "path": "microsoft.entityframeworkcore.sqlserver/8.0.8",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.8.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/8.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wjDNbLJk86QpZt2JxJuNVzpBKIbEQsgcJYHGeIFTBuK6NEgvJvyxgneg059HfSJmTVdInZ61lTO4sJGCfFr7+w==",
+      "path": "microsoft.entityframeworkcore.tools/8.0.8",
+      "hashPath": "microsoft.entityframeworkcore.tools.8.0.8.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
       "type": "package",
@@ -5021,6 +5077,21 @@
       "sha512": ""
     },
     "DiscountMangement.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Application.contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Infrastructure.EFCore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

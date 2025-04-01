@@ -48,7 +48,7 @@
                     <div class="col-md-12">
                         <div class="form-group">
                             <lable asp-for="Picture" class="control-lable">عکس</lable>
-                            <input type="text" class="form-control" asp-for="Picture">
+                            <input type="file" class="form-control" asp-for="Picture" accept="image/*">
                             <span asp-validation-for="Picture" class="error"></span>
                         </div>
                     </div>
@@ -116,8 +116,9 @@
                 <input type="hidden" asp-for="Id" value="@Model.Id">
             </div>
         </div>
-        <div class="modal-footer">
-            <button class="btn btn-default waves-effect" data-dismiss="modal">بستن</button>
-            <button class="btn btn-info waves-effect waves-light">ویرایش</button>
-        </div>
+    <div class="modal-footer">
+        <button class="btn btn-default waves-effect" data-dismiss="modal">بستن</button>
+        <button class="btn btn-info waves-effect waves-light">ویرایش</button>
+    </div>
+    </div>
 </form>

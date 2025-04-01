@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {}
+    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
+        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
         "projectName": "0_Freamwork",
-        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
+        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj",
         "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\obj\\",
+        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -72,23 +80,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
+    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
+        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
         "projectName": "DiscountMangement.Application.Contract",
-        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
+        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj",
         "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\obj\\",
+        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,11 +131,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
-                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj"
               }
             }
           }
@@ -144,23 +166,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "projectName": "DiscountManagement.Domain",
-        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\obj\\",
+        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Domain\\DiscountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,11 +217,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               },
-              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
-                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\DiscountManagement\\DM.Application\\DiscountMangement.Application.Contract\\DiscountMangement.Application.Contract.csproj"
               }
             }
           }
@@ -216,23 +252,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
+    "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
         "projectName": "ShopManagment.Application.Contracts",
-        "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
+        "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\ShopManagment.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Nima\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\obj\\",
+        "outputPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\ShopManagment\\SM.Application\\ShopManagment.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -253,8 +303,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
-                "projectPath": "D:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
+              "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj": {
+                "projectPath": "E:\\Code\\Asp.net-Core\\Projects\\LampShade\\0_Freamwork\\0_Freamwork.csproj"
               }
             }
           }
@@ -291,12 +341,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.12, 8.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

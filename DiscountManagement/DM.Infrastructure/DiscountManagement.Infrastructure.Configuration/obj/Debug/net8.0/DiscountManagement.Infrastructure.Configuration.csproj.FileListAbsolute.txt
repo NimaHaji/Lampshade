@@ -72,3 +72,11 @@ D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\Dis
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\obj\Debug\net8.0\ref\DiscountManagement.Infrastructure.Configuration.dll
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\DiscountManagement.Infrastructure.Configuration.runtimeconfig.json
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\obj\Debug\net8.0\DiscountManagement.Infrastructure.Configuration.genruntimeconfig.cache
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\DiscountManagement.Infrastructure.Configuration.runtimeconfig.json
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\InventoryManagement.Application.contracts.dll
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.dll
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\InventoryManagement.Application.contracts.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\obj\Debug\net8.0\DiscountManagement.Infrastructure.Configuration.genruntimeconfig.cache

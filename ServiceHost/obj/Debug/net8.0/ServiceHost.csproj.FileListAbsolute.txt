@@ -74,7 +74,6 @@ E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Refl
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Runtime.Caching.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Text.Json.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\System.Windows.Extensions.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\af\Humanizer.resources.dll
 E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\ar\Humanizer.resources.dll
@@ -566,3 +565,19 @@ d:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.E
 d:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 d:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 d:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.contracts.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.Configuration.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.Configuration.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.contracts.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.dll
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\ServiceHost\obj\Debug\net8.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs

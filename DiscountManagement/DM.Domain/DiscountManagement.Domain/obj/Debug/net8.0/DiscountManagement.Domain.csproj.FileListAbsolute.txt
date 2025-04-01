@@ -36,3 +36,5 @@ D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Domain\DiscountMan
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Domain\DiscountManagement.Domain\obj\Debug\net8.0\ref\DiscountManagement.Domain.dll
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Domain\DiscountManagement.Domain\bin\Debug\net8.0\ShopManagment.Application.Contracts.dll
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Domain\DiscountManagement.Domain\bin\Debug\net8.0\ShopManagment.Application.Contracts.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Domain\DiscountManagement.Domain\bin\Debug\net8.0\ShopManagment.Application.Contracts.dll
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Domain\DiscountManagement.Domain\bin\Debug\net8.0\ShopManagment.Application.Contracts.pdb

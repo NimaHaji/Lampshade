@@ -5,13 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using _0_Framwork.Domain;
 using InventoryManagement.Application.contracts;
+using Microsoft.Extensions.Logging;
 
 namespace InventoryManagement.Domain
 {
-    internal interface IInventoryRepository:IRepository<long,Inventory>
+    public interface IInventoryRepository:IRepository<long,Inventory>
     {
-        EditInventory GetDetail(long id);
+        EditInventory GetDetails(long id);
         Inventory GetBy(long id);
-        List<InventoryViewModel> Search(IncventorySearchModel searchModel);
+        List<InventoryViewModel> Search(InventorySearchModel searchModel);
+        List<InventoryOperationViewModel> GetOperationLog(long InventoryId);
     }
 }

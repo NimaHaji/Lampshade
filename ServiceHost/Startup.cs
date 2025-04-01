@@ -1,5 +1,8 @@
-﻿using ShopManagment.Infrastructure.Configuration;
+﻿using _0_Freamwork.Application;
+using ShopManagment.Infrastructure.Configuration;
 using DiscountManagement.Infrastructure.Configuration;
+using InventoryManagement.Infrastructure.EFCore.Repository;
+using InventoryManagement.Infrastructure.EFCore.Configuration;
 namespace ServiceHost
 {
     public class Startup
@@ -16,7 +19,11 @@ namespace ServiceHost
         {
             var connection=Configuration.GetConnectionString("LampShadeProject");
             DiscountManagementBootStraper.Configure(services, connection);
-            ShopManagmentBootStraper.configure(services,connection);
+            ShopManagmentBootStraper.Configure(services,connection);
+            InventoryManagementBootStraper.Configure(services,connection);
+            
+            services.AddScoped<IFileUpload, FileUpload>();
+            
             services.AddRazorPages();
         }
 

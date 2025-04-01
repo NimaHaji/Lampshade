@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DiscountManagement\DM.Infrastructure\DiscountManagement.Infrastructure.Configuration\DiscountManagement.Infrastructure.Configuration.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Infrastructure.Configuration\InventoryManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\ShopManagment\SM.Infrastructure\ShopManagment.Infrastructure.Configuration\ShopManagment.Infrastructure.Configuration.csproj" />
   </ItemGroup>
 
@@ -174,6 +175,27 @@
     <None Include="wwwroot\AdminTheme\assets\timepicker\bootstrap-datepicker.js" />
     <None Include="wwwroot\AdminTheme\assets\timepicker\bootstrap-timepicker.min.js" />
     <None Include="wwwroot\AdminTheme\assets\toggles\toggles.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\Adminstration\Pages\Inventory\Log.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\Adminstration\Pages\Inventory\Reduse.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\Adminstration\Pages\Inventory\Increase.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\ProductCategory\دکوری\" />
+    <Folder Include="wwwroot\ProductCategory\مطالعه\" />
+    <Folder Include="wwwroot\ProductPictures\" />
   </ItemGroup>
 
 </Project>

@@ -16,8 +16,8 @@ SinglePage.LoadModal = function () {
             $.validator.unobtrusive.parse(newForm);
             showModal();
         }).fail(function (error) {
-            alert("خطایی رخ داده، لطفا با مدیر سیستم تماس بگیرید.");
-        });
+        alert("خطایی رخ داده، لطفا با مدیر سیستم تماس بگیرید.");
+    });
 };
 
 function showModal() {
@@ -91,19 +91,17 @@ function CallBackHandler(data, action, form) {
                 alert(data.message);
             }
             break;
-        case "RefereshList":
-            {
-                hideModal();
-                const refereshUrl = form.attr("data-refereshurl");
-                const refereshDiv = form.attr("data-refereshdiv");
-                get(refereshUrl, refereshDiv);
-            }
+        case "RefereshList": {
+            hideModal();
+            const refereshUrl = form.attr("data-refereshurl");
+            const refereshDiv = form.attr("data-refereshdiv");
+            get(refereshUrl, refereshDiv);
+        }
             break;
-        case "setValue":
-            {
-                const element = form.data("element");
-                $(`#${element}`).html(data);
-            }
+        case "setValue": {
+            const element = form.data("element");
+            $(`#${element}`).html(data);
+        }
             break;
         default:
     }
@@ -179,12 +177,20 @@ function handleAjaxCall(method, url, data) {
             function (data) {
 
             }).fail(function (error) {
-                alert("خطایی رخ داده است. لطفا با مدیر سیستم تماس بگیرید.");
-            });
+            alert("خطایی رخ داده است. لطفا با مدیر سیستم تماس بگیرید.");
+        });
     }
 }
 
-jQuery.validator.addMethod("maxFileSize",
+$.validator.addMethod("FileFormat", function(value, element, formats) {
+    const forms=["jpg","jpeg"];
+    if (element.files.length === 0) return true;
+    var fileExtension = element.files[0].name.split('.').pop().toLowerCase();
+    return forms.indexOf(fileExtension) !== -1;
+});
+
+jQuery.validator.unobtrusive.adapters.addBool("FileFormat");    
+jQuery.validator.addMethod("maxfilesize",
     function (value, element, params) {
         var size = element.files[0].size;
         var maxSize = 3 * 1024 * 1024;
@@ -194,17 +200,6 @@ jQuery.validator.addMethod("maxFileSize",
             return true;
         }
     });
-jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");
+jQuery.validator.unobtrusive.adapters.addBool("maxfilesize");
 
-//jQuery.validator.addMethod("maxFileSize",
-//    function (value, element, params) {
-//        var size = element.files[0].size;
-//        var maxSize = 3 * 1024 * 1024;
-//        debugger;
-//        if (size > maxSize)
-//            return false;
-//        else {
-//            return true;
-//        }
-//    });
-//jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");
+

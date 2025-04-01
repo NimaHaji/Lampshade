@@ -1,5 +1,7 @@
+using _0_Framwork.Application;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using ShopManagment.Application.Contracts.ProductCategory;
 
 namespace ServiceHost.Areas.Adminstration.Pages.shop.ProductCategory
@@ -9,7 +11,7 @@ namespace ServiceHost.Areas.Adminstration.Pages.shop.ProductCategory
         public ProductCategorySearchModel SearchModel;
         public List<ProductCategoryViewModel> ProductCategories;
         private readonly IProductCategoryApplication _productCategoryApplication;
-
+        
         public IndexModel(IProductCategoryApplication productCategoryApplication)
         {
             _productCategoryApplication = productCategoryApplication;
@@ -31,7 +33,8 @@ namespace ServiceHost.Areas.Adminstration.Pages.shop.ProductCategory
             var productCategory=_productCategoryApplication.GetDetails(id);
             return Partial("Edit",productCategory);
         }
-        public JsonResult OnPostEdit(EditProductCategory command){
+        public IActionResult OnPostEdit(EditProductCategory command){
+            
             var result=_productCategoryApplication.Edit(command);
             return new JsonResult(result);
         }

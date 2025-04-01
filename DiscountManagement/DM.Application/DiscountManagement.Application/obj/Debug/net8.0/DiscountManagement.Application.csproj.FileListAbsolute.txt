@@ -40,3 +40,5 @@ D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Application\Discou
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Application\DiscountManagement.Application\obj\Debug\net8.0\ref\DiscountManagement.Application.dll
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Application\DiscountManagement.Application\bin\Debug\net8.0\ShopManagment.Application.Contracts.dll
 D:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Application\DiscountManagement.Application\bin\Debug\net8.0\ShopManagment.Application.Contracts.pdb
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Application\DiscountManagement.Application\bin\Debug\net8.0\ShopManagment.Application.Contracts.dll
+E:\Code\Asp.net-Core\Projects\LampShade\DiscountManagement\DM.Application\DiscountManagement.Application\bin\Debug\net8.0\ShopManagment.Application.Contracts.pdb

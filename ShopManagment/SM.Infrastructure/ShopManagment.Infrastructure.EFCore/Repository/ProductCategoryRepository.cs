@@ -4,6 +4,7 @@ using ShopManagment.Application.Contracts.ProductCategory;
 using ShopManagment.Domain.ProductCategoryAgg;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace ShopManagment.Infrastructure.EFCore.Repository
 {
@@ -34,7 +35,7 @@ namespace ShopManagment.Infrastructure.EFCore.Repository
                 Name = c.Name,
                 Keywords = c.Keywords,
                 MetaDescription = c.MetaDescription,
-                Picture = c.Picture,
+                // Picture = c.Picture,
                 PictureTitle = c.PictureTitle,
                 PictureAlt = c.PictureAlt,
                 Slug = c.Slug
@@ -55,6 +56,10 @@ namespace ShopManagment.Infrastructure.EFCore.Repository
             return query.OrderByDescending(x => x.Id).ToList();
         }
 
-
+        public string GetCategoryWithSlugBy(long id)
+        {
+            return _context.ProductCategories.Include(x=>x.Products).Select(x => new { x.Id, x.Slug }).FirstOrDefault(x => x.Id == x.Id).Slug;
+        }
+        
     }
 }

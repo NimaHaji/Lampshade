@@ -18,7 +18,7 @@ namespace ShopManagment.Infrastructure.Configuration
 {
     public class ShopManagmentBootStraper
     {
-        public static void configure(IServiceCollection services, string ConnectionString)
+        public static void Configure(IServiceCollection services, string ConnectionString)
         {
 
             services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();

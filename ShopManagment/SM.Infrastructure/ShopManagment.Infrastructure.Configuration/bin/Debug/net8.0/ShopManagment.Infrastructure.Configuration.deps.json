@@ -3020,6 +3020,8 @@
       },
       "0_Freamwork/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "8.0.8"
         },
         "runtime": {
