@@ -1,0 +1,26 @@
+
+*.cs linguist-language=C#
+*.csproj linguist-language=C#
+*.sln linguist-language=C#
+*.cshtml linguist-language=C#
+*.razor linguist-language=C#
+
+wwwroot/** linguist-vendored=true
+
+*.js linguist-detectable=false
+*.min.js linguist-detectable=false
+*.map linguist-detectable=false
+
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.less linguist-detectable=false
+
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+
+*.ts linguist-detectable=false
+*.tsx linguist-detectable=false
+
+bin/** linguist-generated=true
+obj/** linguist-generated=true
+node_modules/** linguist-generated=true
